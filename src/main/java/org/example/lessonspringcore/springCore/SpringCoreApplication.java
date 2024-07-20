@@ -1,6 +1,6 @@
 package org.example.lessonspringcore.springCore;
 
-import org.springframework.boot.autoconfigure.security.SecurityProperties;
+
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class SpringCoreApplication {
